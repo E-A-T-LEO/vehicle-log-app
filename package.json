@@ -18,8 +18,9 @@
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.6",
     "autoprefixer": "latest",
-    "postcss": "latest",
+    "postcss": "^8.5.3",
     "tailwindcss": "latest"
   }
 }
