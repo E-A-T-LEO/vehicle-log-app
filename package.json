@@ -8,21 +8,21 @@
   },
   "dependencies": {
     "@react-google-maps/api": "^2.20.6",
+    "autoprefixer": "^10.4.21",
     "chart.js": "^4.4.9",
     "firebase": "^11.7.1",
     "next": "latest",
+    "postcss": "^8.5.3",
     "react": "latest",
     "react-calendar": "^5.1.0",
     "react-chartjs-2": "^5.3.0",
     "react-dom": "latest",
+    "tailwindcss": "^4.1.7",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.7",
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.3",
     "postcss-import": "^16.1.0",
-    "postcss-nesting": "^13.0.1",
-    "tailwindcss": "^4.1.7"
+    "postcss-nesting": "^13.0.1"
   }
 }
